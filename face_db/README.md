@@ -67,6 +67,7 @@ face-recognition-attendance-system/
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
+
 ## Accuracy & Limitations
 - System performs well in normal lighting conditions
 - Accuracy depends on camera quality and face angle
@@ -75,6 +76,7 @@ python -m venv .venv
 ## Author
 Ganesh Navre  
 AI/ML Intern Candidate
+
 
 
 
