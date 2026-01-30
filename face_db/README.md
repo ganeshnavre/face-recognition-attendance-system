@@ -67,4 +67,15 @@ face-recognition-attendance-system/
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
+## Accuracy & Limitations
+- System performs well in normal lighting conditions
+- Accuracy depends on camera quality and face angle
+- Advanced spoof attacks like 3D masks are not handled
+
+## Author
+Ganesh Navre  
+AI/ML Intern Candidate
+
+
+
 
